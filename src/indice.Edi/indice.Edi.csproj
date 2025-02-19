@@ -28,7 +28,7 @@
     <PackageProjectUrl>https://github.com/indice-co/EDI.Net</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryType>git</RepositoryType>
-    <RepositoryUrl>https://github.com/indice-co/EDI.Net</RepositoryUrl>
+    <RepositoryUrl>https://github.com/MJapdeva4302/EDI.Net</RepositoryUrl>
     <Company>Indice</Company>
     <Product>Edi.Net</Product>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
